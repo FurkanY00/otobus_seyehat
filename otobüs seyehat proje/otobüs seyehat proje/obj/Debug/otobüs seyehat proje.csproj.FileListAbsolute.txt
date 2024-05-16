@@ -1,0 +1,10 @@
+C:\Users\siraz\Desktop\otobüs seyehat proje\otobüs seyehat proje\bin\Debug\otobüs seyehat proje.exe.config
+C:\Users\siraz\Desktop\otobüs seyehat proje\otobüs seyehat proje\bin\Debug\otobüs seyehat proje.exe
+C:\Users\siraz\Desktop\otobüs seyehat proje\otobüs seyehat proje\bin\Debug\otobüs seyehat proje.pdb
+C:\Users\siraz\Desktop\otobüs seyehat proje\otobüs seyehat proje\obj\Debug\otobüs seyehat proje.csproj.AssemblyReference.cache
+C:\Users\siraz\Desktop\otobüs seyehat proje\otobüs seyehat proje\obj\Debug\otobüs_seyehat_proje.Form1.resources
+C:\Users\siraz\Desktop\otobüs seyehat proje\otobüs seyehat proje\obj\Debug\otobüs_seyehat_proje.Properties.Resources.resources
+C:\Users\siraz\Desktop\otobüs seyehat proje\otobüs seyehat proje\obj\Debug\otobüs seyehat proje.csproj.GenerateResource.cache
+C:\Users\siraz\Desktop\otobüs seyehat proje\otobüs seyehat proje\obj\Debug\otobüs seyehat proje.csproj.CoreCompileInputs.cache
+C:\Users\siraz\Desktop\otobüs seyehat proje\otobüs seyehat proje\obj\Debug\otobüs seyehat proje.exe
+C:\Users\siraz\Desktop\otobüs seyehat proje\otobüs seyehat proje\obj\Debug\otobüs seyehat proje.pdb
